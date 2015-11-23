@@ -1,0 +1,23 @@
+{
+  "name": "sepomex-js",
+  "authors": [
+    "Abraham Kuri <kurenn@icalialabs.com>"
+  ],
+  "description": "A JavaScript wrapper for the Sepomex API - http://sepomex-api.herokuapp.com/api/v1/zip_codes",
+  "main": "dist/sepomex.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "Sepomex"
+  ],
+  "license": "MIT",
+  "homepage": "http://icalialabs.github.io/sepomex-js/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

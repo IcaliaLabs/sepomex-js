@@ -1,0 +1,25 @@
+{
+  "name": "sepomex-js",
+  "version": "1.0.0",
+  "description": "A JavaScript wrapper for the Sepomex API - http://sepomex-api.herokuapp.com/api/v1/zip_codes",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IcaliaLabs/sepomex-js.git"
+  },
+  "keywords": [
+    "Sepomex"
+  ],
+  "devDependencies": {
+    "grunt-contrib-coffee": "~0.8.2"
+  },
+  "author": "Icalia Labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IcaliaLabs/sepomex-js/issues"
+  },
+  "homepage": "https://github.com/IcaliaLabs/sepomex-js#readme"
+}
