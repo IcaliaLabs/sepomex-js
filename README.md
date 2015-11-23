@@ -24,8 +24,7 @@ You have three options to install sepomex-js library and start using it:
 You can easily start using the client:
 
 ```javascript
-  //This call will fetch for zip codes with city 'guadalupe' and state
-'nuevo leon'
+  //This call will fetch for zip codes with city 'guadalupe' and state 'nuevo leon'
   Sepomex.where({city: "guadalupe", state: "nuevo leon"})
 ```
 
