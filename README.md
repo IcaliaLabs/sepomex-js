@@ -1,3 +1,7 @@
+[![Code Climate](https://codeclimate.com/github/IcaliaLabs/sepomex-js/badges/gpa.svg)](https://codeclimate.com/github/IcaliaLabs/sepomex-js)
+[![Test Coverage](https://codeclimate.com/github/IcaliaLabs/sepomex-js/badges/coverage.svg)](https://codeclimate.com/github/IcaliaLabs/sepomex-js/coverage)
+[![Issue Count](https://codeclimate.com/github/IcaliaLabs/sepomex-js/badges/issue_count.svg)](https://codeclimate.com/github/IcaliaLabs/sepomex-js)
+
 #Sepomex JS library v1.0.0
 
 sepomex-js is a client wrapper which communicates with the [SEPOMEX API](http://developers.cic.mx/api/), and interact with it.
